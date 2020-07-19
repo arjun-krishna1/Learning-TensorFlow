@@ -1,6 +1,7 @@
+# More information: https://git-scm.com/docs/gitignore
 # Ignore all pdfs
 *.pdf
 # Ignore all downloaded modules
-*/venv
+venv/
 # Ignore all datasets
-*/*.npz
+*.npz
