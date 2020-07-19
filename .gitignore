@@ -1,0 +1,6 @@
+# Ignore all pdfs
+*.pdf
+# Ignore all downloaded modules
+*/venv
+# Ignore all datasets
+*/*.npz
